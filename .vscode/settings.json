@@ -1,0 +1,6 @@
+{
+    "html.format.contentUnformatted": "",
+    "html.format.indentInnerHtml": true,
+    "html.format.unformatted": "",
+    "emmet.includeLanguages": { "javascript": "html" }
+}
